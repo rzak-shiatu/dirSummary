@@ -91,6 +91,3 @@ python dirSummary.py
 ## 📝 ライセンス
 
 MIT License
-
-
-```
