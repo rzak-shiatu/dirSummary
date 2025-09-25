@@ -87,10 +87,10 @@ python dirSummary.py
 * 大規模フォルダを解析するときは **分割ブロック** が多数になるため、API利用料に注意
 * OpenAI API の制限（TPM/RPM）にかかる場合は少し待って再実行してください
 
----
 
 ## 📝 ライセンス
 
 MIT License
+
 
 ```
